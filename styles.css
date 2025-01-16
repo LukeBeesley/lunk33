@@ -1,0 +1,16 @@
+body {
+    text-align: left;
+}
+
+a {
+    text-decoration: none;
+    cursor: help;
+}
+
+strong {
+    text-decoration-line: underline;
+}
+
+fade {
+    font-size: xx-small;
+}
