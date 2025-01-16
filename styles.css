@@ -1,5 +1,5 @@
 body {
-    text-align: left;
+    text-align: center;
 }
 
 a {
@@ -13,4 +13,8 @@ strong {
 
 fade {
     font-size: xx-small;
+}
+
+h0 {
+    font-size: xx-large;
 }
