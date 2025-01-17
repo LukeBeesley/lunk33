@@ -1,20 +1,27 @@
 body {
-    text-align: center;
+    text-align: left;
+    font-family:Georgia;
+    background-color: black;
+    color: white;
+}
+
+h1 {
+    color: white;
+}
+
+h2 {
+    color: white;
 }
 
 a {
-    text-decoration: none;
     cursor: help;
+    color:blueviolet;
 }
 
 strong {
-    text-decoration-line: underline;
+    text-decoration: underline;
 }
 
-fade {
-    font-size: xx-small;
-}
-
-h0 {
-    font-size: xx-large;
+s1 {
+    color: white;
 }
